@@ -43,6 +43,8 @@
 ## Model performance
 
 **Results:**
-![alt text](https://github.com/fahadmehfooz/EDA-Modelling-On-Rain-In-Australia/blob/main/images/__results___36_2.png?raw=true)
+
+![alt text](https://github.com/fahadmehfooz/Classification_With_Model_Interpretability/blob/master/images/scores.png)
+
 
 * Gradient Boosting, Voting Classifier and Stacked models are performing really well. Their train and test errors and also the roc scores and f scores are really close and good.
